@@ -1,0 +1,3 @@
+[submodule "dev-hadoop/helpers_project"]
+	path = dev-hadoop/helpers_project
+	url = git@gitlab.1000mercis.com:dev-hadoop/airflow_python_helpers.git
